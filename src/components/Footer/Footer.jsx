@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-linear-to-tr from-[#E0F3FF] via-white to-[#F5FBFF] text-gray-800 py-16 shadow-[0_-6px_20px_rgba(0,0,0,0.08)] p-6 sm:p-10 lg:p-16">
       <div className="bg-white rounded-lg  shadow-lg border border-gray-200 px-10">
-        <div className="grid grid-cols-1 text-center sm:grid-cols-2 md:grid-cols-4 my-10 sm:space-y-5">
+        <div className="grid grid-cols-1 text-center sm:text-start sm:grid-cols-2 md:grid-cols-4 my-10 sm:space-y-5">
           <div className="flex  flex-col space-y-10">
             <p className="mb-5">
               Empowering Afghan Youth with Skills for a Digital Future
